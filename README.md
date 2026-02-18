@@ -2,6 +2,10 @@
 
 Hand-crafted 7×24 pixel bitmap font inspired by the instrument panel of the 1967 Mustang.
 
+![Demo Image](demo.png)
+
+This font is a pixel font for use with the Adafruit GFX and other libraries used with Microcontrollers. It was inspired by the font used for the numbers on the instrument panel of 1960's Fords, notably the 1967 Mustang.
+
 ## Overview
 
 `custom_font.h` is a complete, production-ready 1-bit bitmap font designed for use with the **Adafruit GFX** library on AVR microcontrollers (e.g., Arduino with SSD1306 OLED displays). All glyphs are stored in `PROGMEM` to minimize RAM usage.

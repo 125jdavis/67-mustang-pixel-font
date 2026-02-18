@@ -112,7 +112,7 @@ Calculates the pixel width of a string (useful for centering).
 | 4, #, @, m, w | 8 |
 | 1 | 6 |
 | i, j, l | 4 |
-| space, ', \|, \` | 3 |
+| space, ', \|, ` | 3 |
 | " | 5 |
 | ( ) | 5 |
 | All other uppercase letters | 7 |

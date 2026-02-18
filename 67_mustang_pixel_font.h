@@ -1,7 +1,7 @@
 #pragma once
 #include <avr/pgmspace.h>
 
-//  custom_font.h    hand-crafted 7x24 pixel font (1-bit, PROGMEM)
+//  67_mustang_pixel_font.h    hand-crafted 7x24 pixel font (1-bit, PROGMEM)
 //
 //  All glyphs are 24px tall. Widths vary:
 //    I           5px

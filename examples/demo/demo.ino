@@ -1,7 +1,7 @@
 /*
  * 67 Mustang Pixel Font Demo
  * 
- * Demonstrates the custom_font.h 7x24 pixel bitmap font
+ * Demonstrates the 67_mustang_pixel_font.h 7x24 pixel bitmap font
  * on a 128x64 SSD1306 OLED display.
  * 
  * Hardware:
@@ -18,7 +18,7 @@
 #include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
-#include "custom_font.h"
+#include "67_mustang_pixel_font.h"
 
 #define SCREEN_WIDTH 128
 #define SCREEN_HEIGHT 64

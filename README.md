@@ -8,7 +8,7 @@ This font is a pixel font for use with the Adafruit GFX and other libraries used
 
 ## Overview
 
-`custom_font.h` is a complete, production-ready 1-bit bitmap font designed for use with the **Adafruit GFX** library on AVR microcontrollers (e.g., Arduino with SSD1306 OLED displays). All glyphs are stored in `PROGMEM` to minimize RAM usage.
+`67_mustang_pixel_font.h` is a complete, production-ready 1-bit bitmap font designed for use with the **Adafruit GFX** library on AVR microcontrollers (e.g., Arduino with SSD1306 OLED displays). All glyphs are stored in `PROGMEM` to minimize RAM usage.
 
 ## Features
 
@@ -30,7 +30,7 @@ This font is a pixel font for use with the Adafruit GFX and other libraries used
 ### Include the Font
 
 ```cpp
-#include "custom_font.h"
+#include "67_mustang_pixel_font.h"
 ```
 
 ### Initialize Your Display
